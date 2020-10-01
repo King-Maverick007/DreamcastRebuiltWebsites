@@ -2,7 +2,7 @@
 	<body>
 		<h1>Dreamcast Site</h1>
 		<p>
-			This page exists to provide compatibility with
+			This page  provides compatibility with
 			the PlanetWeb v1 browser which defaults to:<br>
 			http://www.dreamcast.com/dcm/v1
 			<br>
